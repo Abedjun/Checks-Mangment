@@ -1,0 +1,12 @@
+c:\users\daffawi\Desktop\Study\C#\22211513App\22211513App\bin\Debug\22211513App.exe.config
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\bin\Debug\22211513App.exe
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\bin\Debug\22211513App.pdb
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\22211513App.csprojResolveAssemblyReference.cache
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\_22211513App.frmHome.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\_22211513App.frmIssuedCHecks.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\_22211513App.frmReciveCHeck.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\_22211513App.Properties.Resources.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\22211513App.csproj.GenerateResource.Cache
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\22211513App.exe
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\22211513App.pdb
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\22211513App\obj\Debug\_22211513App.frmReports.resources

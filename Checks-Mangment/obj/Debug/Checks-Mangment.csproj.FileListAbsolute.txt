@@ -1,0 +1,12 @@
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\bin\Debug\22211513App.exe.config
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\22211513App.exe
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\22211513App.pdb
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\bin\Debug\22211513App.exe
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\bin\Debug\22211513App.pdb
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\Checks-Mangment.csprojResolveAssemblyReference.cache
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\_22211513App.frmHome.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\_22211513App.frmIssuedCHecks.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\_22211513App.frmReciveCHeck.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\_22211513App.frmReports.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\_22211513App.Properties.Resources.resources
+C:\Users\DAFFAWI\Desktop\Study\C#\22211513App\Checks-Mangment\obj\Debug\Checks-Mangment.csproj.GenerateResource.Cache
